@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "exportedAt": "2026-01-03T02:00:00.000Z",
+  "songs": [
+    {
+      "id": "sample-song-001",
+      "title": "Kuch Is Tarah",
+      "album": "Doorie",
+      "year": 2006,
+      "content": "{title: Kuch Is Tarah}\n{artist: Atif Aslam}\n{capo: 0}\n\nKuch Is [F]Tarah, Teri Pal[Am]ke\nMeri [C]Palko se Mi[Dm]la De\nAnsu Te[F]re, Saa[Am]re\nMeri [C]Palko pe Sa[Dm]Jaa De\n\nKuch Is [F]Tarah, Teri Pal[Am]ke\nMeri [C]Palko se Mi[Dm]la De\nAnsu Te[F]re, Saa[Am]re\nMeri [C]Palko pe Sa[Dm]Jaa De\n\nTu Har [F]Ghadi, Har [Am]Waqt\nMere [A#]Saath Ra[C]Ha Hai\nHaan Ye [F]Jism Kabhi [Am]Dur\nKabhi [A#]Paas Ra[C]Ha Hai\nJo Bhi [Dm]Gham Hai Ye [C]Tere\nUn[A#]he Tu Mera Pa[C]ta De\n\nKuch Is [F]Tarah, Teri Pal[Am]ke\nMeri [C]Palko se Mi[Dm]la De\nAnsu Te[F]re, Saa[Am]re\nMeri [C]Palko pe Sa[Dm]Jaa De",
+      "key": "F",
+      "capo": 0,
+      "tempo": null,
+      "createdAt": "2026-01-03T02:00:00.000Z",
+      "updatedAt": "2026-01-03T02:00:00.000Z",
+      "artistNames": ["Atif Aslam"]
+    }
+  ]
+}

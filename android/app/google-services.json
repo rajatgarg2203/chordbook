@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306645175858",
+    "project_id": "chordbook-app",
+    "storage_bucket": "chordbook-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306645175858:android:02ae7efefb326c54bd762b",
+        "android_client_info": {
+          "package_name": "com.example.chordbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7fH6PErkXYJSJQ3kHbb0b_zNQwuoUoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
